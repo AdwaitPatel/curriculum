@@ -1,0 +1,778 @@
+[
+  {
+    "title": "What is devchallenges.io?",
+    "path": "1-fundamentals/1-introduction/1-what-is-devchallenges.md",
+    "slug": "1-fundamentals/what-is-devchallenges",
+    "group": "Introduction",
+    "type": "lesson"
+  },
+  {
+    "title": "Where to get help?",
+    "path": "1-fundamentals/1-introduction/2-where-to-get-help.md",
+    "slug": "1-fundamentals/where-to-get-help",
+    "group": "Introduction",
+    "type": "lesson"
+  },
+  {
+    "title": "Visual Studio Code Introduction",
+    "path": "1-fundamentals/2-code-editor/1-vscode-introduction.md",
+    "slug": "1-fundamentals/visual-studio-code-introduction",
+    "group": "Code Editor",
+    "type": "lesson"
+  },
+  {
+    "title": "Command Line Basics",
+    "path": "1-fundamentals/3-command-lines/1-command-line-basics.md",
+    "slug": "1-fundamentals/command-line-basics",
+    "group": "Command Line",
+    "type": "lesson"
+  },
+  {
+    "title": "Introduction to Git and Github",
+    "path": "1-fundamentals/4-git-github/1-introduction-to-git-and-github.md",
+    "slug": "1-fundamentals/introduction-to-git-and-github",
+    "group": "Git and Github",
+    "type": "lesson"
+  },
+  {
+    "title": "Writing good commit messages",
+    "path": "1-fundamentals/4-git-github/2-writing-good-commits.md",
+    "slug": "1-fundamentals/writing-good-commit-messages",
+    "group": "Git and Github",
+    "type": "lesson"
+  },
+  {
+    "title": "Free Hosting for Web Projects",
+    "path": "1-fundamentals/5-hosting/1-free-hosting-web-projects.md",
+    "slug": "1-fundamentals/free-hosting-for-web-projects",
+    "group": "Hosting",
+    "type": "lesson"
+  },
+  {
+    "title": "Introduction to HTML and CSS",
+    "path": "2-responsive-web/1-html-css/1-introduction-to-html-css.md",
+    "slug": "2-responsive-web/introduction-to-html-and-css",
+    "group": "HTML/CSS Fundamentals",
+    "type": "lesson"
+  },
+  {
+    "title": "Essential HTML Cheat Sheet",
+    "path": "2-responsive-web/1-html-css/2.1-html-cheatsheet.md",
+    "slug": "2-responsive-web/html-cheat-sheet",
+    "group": "HTML/CSS Fundamentals",
+    "type": "lesson"
+  },
+  {
+    "title": "Essential CSS Cheat Sheet",
+    "path": "2-responsive-web/1-html-css/2.2-css-essential-cheatsheet.md",
+    "slug": "2-responsive-web/css-essential-cheat-sheet",
+    "group": "HTML/CSS Fundamentals",
+    "type": "lesson"
+  },
+  {
+    "title": "Simple Frequently Asked Questions",
+    "path": "2-responsive-web",
+    "slug": "challenge/simple-faq-challenge",
+    "group": "HTML/CSS Fundamentals",
+    "type": "challenge",
+    "challenge_id": 62
+  },
+  {
+    "title": "Minimal Blog Card",
+    "path": "2-responsive-web",
+    "slug": "challenge/minimal-blog-card",
+    "group": "HTML/CSS Fundamentals",
+    "type": "challenge",
+    "challenge_id": 27
+  },
+  {
+    "title": "Join Our Newsletter",
+    "path": "2-responsive-web",
+    "slug": "challenge/join-our-newsletter",
+    "group": "HTML/CSS Fundamentals",
+    "type": "challenge",
+    "challenge_id": 63
+  },
+
+  {
+    "title": "CSS Units",
+    "path": "2-responsive-web/1-html-css/6-css-unit.md",
+    "slug": "2-responsive-web/css-units",
+    "group": "Basic Layout and Flexbox",
+    "type": "lesson"
+  },
+
+  {
+    "title": "CSS Flexbox",
+    "path": "2-responsive-web/1-html-css/3-flexbox.md",
+    "slug": "2-responsive-web/css-flexbox",
+    "group": "Basic Layout and Flexbox",
+    "type": "lesson"
+  },
+
+  {
+    "title": "CSS Positioning",
+    "path": "2-responsive-web/1-html-css/5-css-position.md",
+    "slug": "2-responsive-web/css-positioning",
+    "group": "Basic Layout and Flexbox",
+    "type": "lesson"
+  },
+
+  {
+    "title": "Simple Article Listing",
+    "path": "2-responsive-web",
+    "slug": "challenge/simple-article-listing",
+    "group": "Basic Layout and Flexbox",
+    "type": "challenge",
+    "challenge_id": 64
+  },
+  {
+    "title": "Testimonial Page",
+    "path": "2-responsive-web",
+    "slug": "challenge/testimonial-page",
+    "group": "Basic Layout and Flexbox",
+    "type": "challenge",
+    "challenge_id": 29
+  },
+  {
+    "title": "Business Blog Card",
+    "path": "2-responsive-web",
+    "slug": "challenge/business-blog-card",
+    "group": "Basic Layout and Flexbox",
+    "type": "challenge",
+    "challenge_id": 28
+  },
+
+  {
+    "title": "Simple Feature Section",
+    "path": "2-responsive-web",
+    "slug": "challenge/simple-feature-section-challenge",
+    "group": "Basic Layout and Flexbox",
+    "type": "challenge",
+    "challenge_id": 65
+  },
+
+  {
+    "title": "CSS Grid",
+    "path": "2-responsive-web/1-html-css/4-grid.md",
+    "slug": "2-responsive-web/css-grid",
+    "group": "Grid Layout",
+    "type": "lesson"
+  },
+
+  {
+    "title": "Simple Product Page",
+    "path": "2-responsive-web",
+    "slug": "challenge/simple-product-page-challenge",
+    "group": "Grid Layout",
+    "type": "challenge",
+    "challenge_id": 66
+  },
+
+  {
+    "title": "Bento Box Layout Feature Section",
+    "path": "2-responsive-web",
+    "slug": "challenge/bento-box-layout-challenge",
+    "group": "Grid Layout",
+    "type": "challenge",
+    "challenge_id": 68
+  },
+  {
+    "title": "Meet the Team Section",
+    "path": "2-responsive-web",
+    "slug": "challenge/meet-the-team-section-challenge",
+    "group": "Grid Layout",
+    "type": "challenge",
+    "challenge_id": 69
+  },
+  {
+    "title": "Responsive Design",
+    "path": "2-responsive-web/1-html-css/11-css-responsive-design.md",
+    "slug": "2-responsive-web/responsive-design",
+    "group": "Responsive Design",
+    "type": "lesson"
+  },
+  {
+    "title": "Process Page",
+    "path": "2-responsive-web",
+    "slug": "challenge/process-page",
+    "group": "Responsive Design",
+    "type": "challenge",
+    "challenge_id": 30
+  },
+  {
+    "title": "Simple Homepage - Alarado",
+    "path": "2-responsive-web",
+    "slug": "challenge/simple-hompage-alarado",
+    "group": "Responsive Design",
+    "type": "challenge",
+    "challenge_id": 33
+  },
+  {
+    "title": "Pricing Table",
+    "path": "2-responsive-web",
+    "slug": "challenge/pricing-table-section-challenge",
+    "group": "Responsive Design",
+    "type": "challenge",
+    "challenge_id": 70
+  },
+  {
+    "title": "CSS Functions",
+    "path": "2-responsive-web/1-html-css/7-css-functions.md",
+    "slug": "2-responsive-web/css-functions",
+    "group": "Advanced CSS Features",
+    "type": "lesson"
+  },
+  {
+    "title": "CSS Custom Properties",
+    "path": "2-responsive-web/1-html-css/8-css-custom-properties.md",
+    "slug": "2-responsive-web/css-custom-properties",
+    "group": "Advanced CSS Features",
+    "type": "lesson"
+  },
+  {
+    "title": "CSS Advanced Selectors",
+    "path": "2-responsive-web/1-html-css/9-css-advanced-selectors.md",
+    "slug": "2-responsive-web/css-advanced-selectors",
+    "group": "Advanced CSS Features",
+    "type": "lesson"
+  },
+  {
+    "title": "CSS Animation",
+    "path": "2-responsive-web/1-html-css/10-css-animation.md",
+    "slug": "2-responsive-web/css-animation",
+    "group": "Advanced CSS Features",
+    "type": "lesson"
+  },
+  {
+    "title": "Simple Homepage - Echoplex",
+    "path": "2-responsive-web",
+    "slug": "challenge/simple-homepage-challenge-echoplex",
+    "group": "Advanced CSS Features",
+    "type": "challenge",
+    "challenge_id": 67
+  },
+  {
+    "title": "Advanced Homepage - Hufie",
+    "path": "2-responsive-web",
+    "slug": "challenge/advanced-homepage-huffie",
+    "group": "Advanced CSS Features",
+    "type": "challenge",
+    "challenge_id": 34
+  },
+  {
+    "title": "Bank Dashboard - HBank",
+    "path": "2-responsive-web",
+    "slug": "challenge/bank-dashboard-challenge-hbank",
+    "group": "Advanced CSS Features",
+    "type": "challenge",
+    "challenge_id": 71
+  },
+  {
+    "title": "Basic Form and Form Validation",
+    "path": "2-responsive-web/1-html-css/12-form-form-validation.md",
+    "slug": "2-responsive-web/form-and-form-validation",
+    "group": "Forms and Validation",
+    "type": "lesson"
+  },
+  {
+    "title": "Contact Page",
+    "path": "2-responsive-web",
+    "slug": "challenge/contact-page",
+    "group": "Forms and Validation",
+    "type": "challenge",
+    "challenge_id": 31
+  },
+  {
+    "title": "Device Shop Checkout",
+    "path": "2-responsive-web",
+    "slug": "challenge/apple-shop-checkout-page-challenge",
+    "group": "Forms and Validation",
+    "type": "challenge",
+    "challenge_id": 72
+  },
+  {
+    "title": "Subscription Checkout",
+    "path": "2-responsive-web",
+    "slug": "challenge/subscription-checkout-page-challenge",
+    "group": "Forms and Validation",
+    "type": "challenge",
+    "challenge_id": 73
+  },
+  {
+    "title": "Accessibility",
+    "path": "2-responsive-web/1-html-css/13-accessibility.md",
+    "slug": "2-responsive-web/accessibility",
+    "group": "Accessibility",
+    "type": "lesson"
+  },
+  {
+    "title": "Introduction to JavaScript",
+    "path": "3-javascript/1-javascript/1-introduction-to-javascript.md",
+    "slug": "3-javascript/introduction-to-javascript",
+    "group": "JavaScript Basics",
+    "type": "lesson"
+  },
+  {
+    "title": "JavaScript Variables and Data Types",
+    "path": "3-javascript/1-javascript/2-js-variables.md",
+    "slug": "3-javascript/javascript-variables-and-data-types",
+    "group": "JavaScript Basics",
+    "type": "lesson"
+  },
+  {
+    "title": "JavaScript Functions",
+    "path": "3-javascript/1-javascript/3-js-functions.md",
+    "slug": "3-javascript/javascript-functions",
+    "group": "JavaScript Basics",
+    "type": "lesson"
+  },
+  {
+    "title": "JavaScript Arrays",
+    "path": "3-javascript/1-javascript/4-js-array.md",
+    "slug": "3-javascript/javascript-arrays",
+    "group": "JavaScript Basics",
+    "type": "lesson"
+  },
+  {
+    "title": "JavaScript Objects",
+    "path": "3-javascript/1-javascript/5-js-advanced-object.md",
+    "slug": "3-javascript/javascript-objects",
+    "group": "JavaScript Basics",
+    "type": "lesson"
+  },
+  {
+    "title": "Flip The Coin",
+    "path": "3-javascript",
+    "slug": "challenge/flip-the-coin",
+    "group": "JavaScript Basics",
+    "type": "challenge",
+    "challenge_id": 74
+  },
+  {
+    "title": "JavaScript DOM and Events",
+    "path": "3-javascript/1-javascript/1.1-js-dom-and-events.md",
+    "slug": "3-javascript/javascript-dom-and-events",
+    "group": "DOM and Events",
+    "type": "lesson"
+  },
+  {
+    "title": "FAQ Page",
+    "path": "3-javascript",
+    "slug": "challenge/faq-page",
+    "group": "DOM and Events",
+    "type": "challenge",
+    "challenge_id": 32
+  },
+  {
+    "title": "Multi-step Register Form",
+    "path": "3-javascript",
+    "slug": "challenge/multi-step-register-form",
+    "group": "DOM and Events",
+    "type": "challenge",
+    "challenge_id": 35
+  },
+  {
+    "title": "JavaScript Conditionals",
+    "path": "3-javascript/1-javascript/6-js-conditionals.md",
+    "slug": "3-javascript/javascript-conditionals",
+    "group": "Control Flow",
+    "type": "lesson"
+  },
+  {
+    "title": "JavaScript Loops",
+    "path": "3-javascript/1-javascript/7-js-loops.md",
+    "slug": "3-javascript/javascript-loops",
+    "group": "Control Flow",
+    "type": "lesson"
+  },
+  {
+    "title": "Guess The Word Game",
+    "path": "3-javascript",
+    "slug": "challenge/guess-the-word",
+    "group": "Control Flow",
+    "type": "challenge",
+    "challenge_id": 37
+  },
+  {
+    "title": "Music Player",
+    "path": "3-javascript",
+    "slug": "challenge/music-player",
+    "group": "Control Flow",
+    "type": "challenge",
+    "challenge_id": 36
+  },
+  {
+    "title": "JavaScript Storing Data in Browser",
+    "path": "3-javascript/1-javascript/16-storing-data-browser.md",
+    "slug": "3-javascript/javascript-storing-data-in-browser",
+    "group": "Data Management",
+    "type": "lesson"
+  },
+  {
+    "title": "JavaScript Modules Basics",
+    "path": "3-javascript/1-javascript/8-js-modules-basics.md",
+    "slug": "3-javascript/javascript-modules-basics",
+    "group": "Data Management",
+    "type": "lesson"
+  },
+
+  {
+    "title": "JavaScript Async and API",
+    "path": "3-javascript/1-javascript/12-async-and-api.md",
+    "slug": "3-javascript/javascript-async-and-api",
+    "group": "Asynchronous Programming",
+    "type": "lesson"
+  },
+
+  {
+    "title": "Random Quote",
+    "path": "3-javascript",
+    "slug": "challenge/random-quote",
+    "group": "Asynchronous Programming",
+    "type": "challenge",
+    "challenge_id": 38
+  },
+
+  {
+    "title": "Movie Search App",
+    "path": "3-javascript",
+    "slug": "challenge/movie-search-app",
+    "group": "Asynchronous Programming",
+    "type": "challenge",
+    "challenge_id": 40
+  },
+  {
+    "title": "JavaScript Regular Expressions",
+    "path": "3-javascript/1-javascript/15-regex.md",
+    "slug": "3-javascript/javascript-regular-expressions",
+    "group": "Advanced Concepts",
+    "type": "lesson"
+  },
+  {
+    "title": "JavaScript Recursion",
+    "path": "3-javascript/1-javascript/9-js-recursion.md",
+    "slug": "3-javascript/javascript-recursion",
+    "group": "Advanced Concepts",
+    "type": "lesson"
+  },
+  {
+    "title": "JavaScript Scope and Closures",
+    "path": "3-javascript/1-javascript/11-js-scope-closures.md",
+    "slug": "3-javascript/javascript-scope-and-closures",
+    "group": "Advanced Concepts",
+    "type": "lesson"
+  },
+  {
+    "title": "Basic Text To Speech",
+    "path": "3-javascript",
+    "slug": "challenge/basic-text-to-speech",
+    "group": "Advanced Concepts",
+    "type": "challenge",
+    "challenge_id": 39
+  },
+  {
+    "title": "JavaScript Functional Programming",
+    "path": "3-javascript/1-javascript/13-functional-programming.md",
+    "slug": "3-javascript/javascript-functional-programming",
+    "group": "Programming Paradigms",
+    "type": "lesson"
+  },
+  {
+    "title": "JavaScript OOP Concepts",
+    "path": "3-javascript/1-javascript/14-oop.md",
+    "slug": "3-javascript/javascript-oop-concepts",
+    "group": "Programming Paradigms",
+    "type": "lesson"
+  },
+  {
+    "title": "Introduction to TypeScript",
+    "path": "3-javascript/2-typescript/1-introduction-to-typescript.md",
+    "slug": "3-javascript/introduction-to-typescript",
+    "group": "TypeScript",
+    "type": "lesson"
+  },
+  {
+    "title": "TypeScript OOP Concepts",
+    "path": "3-javascript/2-typescript/2-oop-in-typescript.md",
+    "slug": "3-javascript/typescript-oop-concepts",
+    "group": "TypeScript",
+    "type": "lesson"
+  },
+  {
+    "title": "TypeScript Generics",
+    "path": "3-javascript/2-typescript/3-typescript-generics.md",
+    "slug": "3-javascript/typescript-generics",
+    "group": "TypeScript",
+    "type": "lesson"
+  },
+  {
+    "title": "TypeScript Modules",
+    "path": "3-javascript/2-typescript/4-typescript-modules.md",
+    "slug": "3-javascript/typescript-modules",
+    "group": "TypeScript",
+    "type": "lesson"
+  },
+  {
+    "title": "TypeScript Decorators",
+    "path": "3-javascript/2-typescript/5-typescript-decorators.md",
+    "slug": "3-javascript/typescript-decorators",
+    "group": "TypeScript",
+    "type": "lesson"
+  },
+  {
+    "title": "TypeScript Advanced Concepts",
+    "path": "3-javascript/2-typescript/6-advanced-typescript-concept.md",
+    "slug": "3-javascript/typescript-advanced-concepts",
+    "group": "TypeScript",
+    "type": "lesson"
+  },
+  {
+    "title": "Introduction to React",
+    "path": "4-frontend-libraries/1-react.js/1-introduction-to-react.md",
+    "slug": "4-frontend-libraries/introduction-to-react",
+    "group": "React Fundamentals",
+    "type": "lesson"
+  },
+  {
+    "title": "Setting Up React",
+    "path": "4-frontend-libraries/1-react.js/2-setting-up-react.md",
+    "slug": "4-frontend-libraries/setting-up-react",
+    "group": "React Fundamentals",
+    "type": "lesson"
+  },
+  {
+    "title": "JSX in React",
+    "path": "4-frontend-libraries/1-react.js/3-master-jsx-in-react.md",
+    "slug": "4-frontend-libraries/jsx-in-react",
+    "group": "React Fundamentals",
+    "type": "lesson"
+  },
+  {
+    "title": "React Components",
+    "path": "4-frontend-libraries/1-react.js/4-react-components.md",
+    "slug": "4-frontend-libraries/react-components",
+    "group": "React Fundamentals",
+    "type": "lesson"
+  },
+
+  {
+    "challenge_id": 45,
+    "title": "Simple Coffee Listing",
+    "path": "4-frontend-libraries",
+    "slug": "challenge/simple-coffee-listing",
+    "group": "React Fundamentals",
+    "type": "challenge"
+  },
+  {
+    "challenge_id": 46,
+    "title": "Property Listing",
+    "path": "4-frontend-libraries",
+    "slug": "challenge/property-listing",
+    "group": "React Fundamentals",
+    "type": "challenge"
+  },
+
+  {
+    "title": "React State Management",
+    "path": "4-frontend-libraries/1-react.js/5-state-management.md",
+    "slug": "4-frontend-libraries/react-state-management",
+    "group": "React State and Effects",
+    "type": "lesson"
+  },
+  {
+    "title": "Side Effects in React",
+    "path": "4-frontend-libraries/1-react.js/6-side-effect-lifecycle.md",
+    "slug": "4-frontend-libraries/side-effects-in-react",
+    "group": "React State and Effects",
+    "type": "lesson"
+  },
+
+  {
+    "challenge_id": 42,
+    "title": "GitHub Profile",
+    "slug": "challenge/github-profile",
+    "path": "4-frontend-libraries",
+    "group": "React State and Effects",
+    "type": "challenge"
+  },
+  {
+    "challenge_id": 48,
+    "title": "Recipe page - HomeChef",
+    "slug": "challenge/recipe-page-homechef",
+    "path": "4-frontend-libraries",
+    "group": "React State and Effects",
+    "type": "challenge"
+  },
+
+  {
+    "challenge_id": 52,
+    "title": "Weather App",
+    "slug": "challenge/weather-app",
+    "path": "4-frontend-libraries",
+    "group": "React State and Effects",
+    "type": "challenge"
+  },
+
+  {
+    "title": "React Router",
+    "path": "4-frontend-libraries/1-react.js/7-react-router.md",
+    "slug": "4-frontend-libraries/react-router",
+    "group": "React Routing and Context",
+    "type": "lesson"
+  },
+  {
+    "title": "Context API",
+    "path": "4-frontend-libraries/1-react.js/8-context-api.md",
+    "slug": "4-frontend-libraries/context-api",
+    "group": "React Routing and Context",
+    "type": "lesson"
+  },
+
+  {
+    "challenge_id": 49,
+    "title": "Country Page - WorldRanks",
+    "slug": "challenge/country-page",
+    "path": "4-frontend-libraries",
+    "group": "React Routing and Context",
+    "type": "challenge"
+  },
+  {
+    "challenge_id": 50,
+    "title": "Country Quiz",
+    "slug": "challenge/country-quizz",
+    "path": "4-frontend-libraries",
+    "group": "React Routing and Context",
+    "type": "challenge"
+  },
+
+  {
+    "title": "React Hooks in Depth",
+    "path": "4-frontend-libraries/1-react.js/9-react-hook-deep-dive.md",
+    "slug": "4-frontend-libraries/react-hook-deep-dive",
+    "group": "React Hooks and Patterns",
+    "type": "lesson"
+  },
+  {
+    "title": "Custom Hooks",
+    "path": "4-frontend-libraries/1-react.js/intermediate/1-custom-hook.md",
+    "slug": "4-frontend-libraries/custom-hooks",
+    "group": "React Hooks and Patterns",
+    "type": "lesson"
+  },
+
+  {
+    "title": "React Patterns",
+    "path": "4-frontend-libraries/1-react.js/intermediate/2-react-patterns.md",
+    "slug": "4-frontend-libraries/react-patterns",
+    "group": "React Hooks and Patterns",
+    "type": "lesson"
+  },
+
+  {
+    "challenge_id": 47,
+    "title": "Translate app",
+    "slug": "challenge/translate-app",
+    "path": "4-frontend-libraries",
+    "group": "React Hooks and Patterns",
+    "type": "challenge"
+  },
+
+  {
+    "challenge_id": 54,
+    "title": "Task Manager App",
+    "slug": "challenge/task-manager-app",
+    "path": "4-frontend-libraries",
+    "group": "React Hooks and Patterns",
+    "type": "challenge"
+  },
+
+  {
+    "title": "Error Boundaries",
+    "path": "4-frontend-libraries/1-react.js/10-error-boundaries.md",
+    "slug": "4-frontend-libraries/error-boundaries",
+    "group": "React Advanced Features",
+    "type": "lesson"
+  },
+
+  {
+    "title": "React Performance Optimization",
+    "path": "4-frontend-libraries/1-react.js/intermediate/3-performance-optimization.md",
+    "slug": "4-frontend-libraries/react-performance-optimization",
+    "group": "React Advanced Features",
+    "type": "lesson"
+  },
+
+  {
+    "challenge_id": 51,
+    "title": "AI Chatbot - simplechat.ai",
+    "slug": "challenge/ai-chat-bot",
+    "path": "4-frontend-libraries",
+    "group": "React Advanced Features",
+    "type": "challenge"
+  },
+
+  {
+    "title": "React 19 New Features",
+    "path": "4-frontend-libraries/1-react.js/intermediate/4-react-19-new-features.md",
+    "slug": "4-frontend-libraries/react-19-new-features",
+    "group": "React More Features",
+    "type": "lesson"
+  },
+  {
+    "title": "React Server Components",
+    "path": "4-frontend-libraries/1-react.js/intermediate/5-react-server-components.md",
+    "slug": "4-frontend-libraries/react-server-components",
+    "group": "React More Features",
+    "type": "lesson"
+  },
+
+  {
+    "challenge_id": 56,
+    "title": "Code Sharing App",
+    "slug": "challenge/code-shraing-app-note-code",
+    "path": "5-fullstack",
+    "group": "Fullstack",
+    "type": "challenge"
+  },
+  {
+    "challenge_id": 57,
+    "title": "Simple Image Uploader",
+    "slug": "challenge/image-upload-app",
+    "path": "5-fullstack",
+    "group": "Fullstack",
+    "type": "challenge"
+  },
+  {
+    "challenge_id": 58,
+    "title": "My Task Board",
+    "slug": "challenge/my-task-board-app",
+    "path": "5-fullstack",
+    "group": "Fullstack",
+    "type": "challenge"
+  },
+  {
+    "challenge_id": 59,
+    "title": "Unsplash Collection",
+    "slug": "challenge/unsplash-collection",
+    "path": "5-fullstack",
+    "group": "Fullstack",
+    "type": "challenge"
+  },
+  {
+    "challenge_id": 60,
+    "title": "AI Image Generator",
+    "slug": "challenge/ai-image-generator",
+    "path": "5-fullstack",
+    "group": "Fullstack",
+    "type": "challenge"
+  },
+  {
+    "challenge_id": 61,
+    "title": "User Portfolio Management",
+    "slug": "challenge/user-portfolio-management",
+    "path": "5-fullstack",
+    "group": "Fullstack",
+    "type": "challenge"
+  }
+]
